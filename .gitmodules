@@ -1,0 +1,3 @@
+[submodule "Oneliners"]
+	path = Oneliners
+	url = https://github.com/stephenturner/oneliners.git
